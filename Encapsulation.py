@@ -21,6 +21,7 @@ class Car:
 obj = Car()
 obj.drive()
 obj.setMaxSpeed(400)
+obj.drive()
 
 
 
