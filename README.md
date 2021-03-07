@@ -1,4 +1,4 @@
-These are basic projects written in python. They use various modules suck as tkinter or sqlite3.
+These are basic projects written in python. They use various modules such as tkinter or sqlite3.
 
 <h3>Projects:</h3>
 <div>
